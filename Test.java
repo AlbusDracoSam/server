@@ -1,5 +1,5 @@
 //first program
-//server
+//server program
 package com.stackoverflow.q3732109;
 
 import java.io.IOException;
